@@ -11,3 +11,8 @@ Currently, two official plugins are available:
 ## Before you Begin 🛠 🔨
 
 Write the following command in your terminal
+
+```
+$ npm install
+$ npm run dev
+```
