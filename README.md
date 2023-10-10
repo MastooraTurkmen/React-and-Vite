@@ -29,4 +29,7 @@ $ pnpm run dev
 # Clone this repository
 $ gh repo clone MastooraTurkmen/React-and-Vite
 
+# Go inside the repository
+$ cd react-and-vite
+
 ```
