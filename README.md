@@ -24,3 +24,9 @@ $ pnpm run dev
 
 
 ## For cloning the project 🪛
+
+```
+# Clone this repository
+$ gh repo clone MastooraTurkmen/React-and-Vite
+
+```
