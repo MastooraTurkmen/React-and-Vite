@@ -43,3 +43,5 @@ $ cd react-and-vite
   + **From there select _Deploy with Github_**
   + **Then write your project name and select it**
   + **After selecting here you can see that the project _Review configuration for Reat-And-Vite_ and then select the _Deploy Reat-And-Vite_ Button**
+     ![Alt text](image.png)
+  + **Now your project is Live**
