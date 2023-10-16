@@ -40,4 +40,6 @@ $ cd react-and-vite
 + **How to deploy our project to netlify site?**
   + **I use [Netlify App](https://app.netlify.com/) for deploying my projects.**
   + **Go to Netlify site and select Add a new site.**
-  + **From here select _Deploy with Github_**
+  + **From there select _Deploy with Github_**
+  + **Then write your project name and select it**
+  + **After selecting here you can see that the project _Review configuration for Reat-And-Vite_ and then select the _Deploy Reat-And-Vite_ Button**
