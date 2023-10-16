@@ -37,3 +37,4 @@ $ cd react-and-vite
 
 ## Deployment 📪 
 
++ **How to deploy our project to netlify site?**
