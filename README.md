@@ -62,3 +62,5 @@ $ cd react-and-vite
 
 ## Author 👩🏻‍💻
 
+**Mastoora Turkmen** 
+[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/)
