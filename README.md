@@ -52,7 +52,7 @@ $ cd react-and-vite
 
 
 ## The React And Vite Screenshots
-![Alt text](image-1.png)
+![Alt text](./src/assets/image-1.png)
 
 + **You also can Count here**
 ![Alt text](image-2.png)
