@@ -49,4 +49,8 @@ $ cd react-and-vite
 -----
 
 
-  ## The React And Vite Screenshots
+## The React And Vite Screenshots
+
+![Alt text](image-1.png)
+
++ **You also can Count here**
