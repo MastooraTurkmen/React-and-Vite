@@ -56,3 +56,9 @@ $ cd react-and-vite
 
 + **You also can Count here**
 ![Alt text](./src/assets/image-2.png)
+
+
+-----
+
+## Author 👩🏻‍💻
+
